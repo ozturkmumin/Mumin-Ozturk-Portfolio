@@ -1,0 +1,101 @@
+.text-Me{
+width: 753px;
+height: 285px;
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 60px;
+line-height: 95px;
+display: flex;
+margin: 150px  auto 40px;
+color: #ffff;
+}
+.main-elips-group{
+position: absolute;
+width: 532.76px;
+height: 436.44px;
+left: 760px;
+
+}
+.Contact-Me-Button{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    gap: 10px;
+    width: 200px;
+    height: 50px;
+    margin: 15px auto;
+    background: rgba(255, 255, 255, 0.3);
+    border-radius: 30px;
+    color: #ffff;
+}
+.Frame{
+    position: absolute;
+    width: 620px;
+    height: 620px;
+    left: 320px;
+    top: 950px;
+}
+.text-location{
+    position: absolute;
+    bottom: 25px;
+    width: 400px;
+    left: 120px;
+}
+.Project-Location{
+    position: absolute;
+    width: 206px;
+    height: auto;
+    left: 50px;
+    top: 2150px;
+    display: flex;
+    justify-content: row;
+    border-radius: 30px;
+}
+.Project-Setting{
+    width: 350px;
+    display: flex;
+    margin-bottom: 50px;
+    transition: 0.5s all ;
+    
+}
+.Project-Setting:hover{
+    transform: scale(1.1);
+    position:relative;
+    cursor: pointer;
+}
+.text-project{
+    width: 753px;
+    height: 285px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 95px;
+    position: absolute;
+    top: 2000px;
+    left: 350px;
+    color: #ffff;    
+    margin: 0 auto;
+ }
+ .form-location{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-end;
+    padding: 0px;
+    gap: 20px;
+    margin: 0 auto;
+    position: absolute;
+    width: 250px;
+ }
+.Elips-Footer-Decoration{
+    position: absolute;
+    width: 1005.69px;
+    height: 806.16px;
+    left:210.09px;
+    top: 3224.72px;
+    transform: rotate(-4.13deg);
+}
